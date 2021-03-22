@@ -18,7 +18,7 @@ Accuracy and f1 score are very good. However, it should not be forgotten that th
 
 I have also calculated feature importance in predicting customer churn. I observe that register_duration (days — customer lifetime), number of thumbs down and average listened songs per session are top 3 important features while predicting churn.
 
-you may see my blogpost here: [Medium](https://elifgerdan.medium.com/sparkify-whyd-you-leave-2455794cd0bb`)
+you may see my blogpost here: [Medium](https://elifgerdan.medium.com/sparkify-whyd-you-leave-2455794cd0bb)
 
 ### 4. Libraries
 - PySpark version 2.4.3 was used in this project, primarily `pyspark.sql` module for working with structured data and `pyspark.ml` that provides a set of high-level APIs to create practical machine learning pipelines
